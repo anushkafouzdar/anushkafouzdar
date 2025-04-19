@@ -19,7 +19,7 @@
 - 📂 Data Cleaning and Analysis Scripts
 
 ## 📫 Connect With Me:
-- 📧 Email: *anushkafouzdar33@example.com*
+- 📧 Email: *anushkafouzdar33@gmail.com*
 - 📱 LinkedIn: www.linkedin.com/in/anushkafouzdar30
 
 ---
